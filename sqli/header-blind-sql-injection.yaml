@@ -1,6 +1,6 @@
 info:
   name: Header Blind SQL Injection
-  author: geeknik
+  author: coffinxp
   severity: high
   tags: blind-sqli
 
